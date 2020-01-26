@@ -16,7 +16,9 @@
     margin-left: 100px;
 }
 
-
+a{
+    text-decoration: none;
+}
 
 .milan {
     font-size: 29px;
